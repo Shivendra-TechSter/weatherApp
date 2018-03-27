@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="enter_a_city">Enter a city</string>
+    <string name="enter_the_city">Enter the city</string>
+    <string name="what_s_the_weather">What\'s The Weather</string>
+    <string name="developed_by_shivendra_techster">Developed by Shivendra TechSter</string>
+</resources>
